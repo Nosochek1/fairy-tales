@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    background-color:#FFFF00;
+}
+
+.aa {
+    text-align: center;
+    
+}
+
+.sss:hover {
+    margin: 1px;
+    transform: scale(3);
+    transition: 6s linear;
+}
+
+.gg {
+    text-align: center;
+    transform: rotate(5);
+}
+
+.xx {
+    text-align: center;
+    background-color: blue;
+}
+
+.builder:hover {
+    margin: 100px;
+    transform: scale(3);
+    transition:6s linear ;
+}
+
+h1 {
+    margin: 0;
+    text-align: center;
+    font-size: 60px;
+}
+
+.details {
+    display: inline-block;
+    margin-top: 20px;
+}
+
